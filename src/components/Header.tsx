@@ -1,6 +1,6 @@
 export function Header(){
     return(
-        <header className="w-full h-20 flex justify-between px-16 items-center border-b border-b-slate-200">
+        <header className="w-full h-20 flex justify-between px-16 items-center">
             <h3 className="hover:cursor-pointer text-primary500 font-outfit font-bold text-2xl leading-4">Nullbank</h3>
             <nav>
                 <ul className="flex gap-10 ">

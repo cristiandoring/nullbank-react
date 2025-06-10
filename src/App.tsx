@@ -1,10 +1,9 @@
-import { Header } from "./components/Header"
-
+import { InfinitsPossibilities } from "./components/InfinitsPossibilities"
 function App() {
 
   return (
     <>
-      <Header/>
+      <InfinitsPossibilities/>
     </>
   )
 }
